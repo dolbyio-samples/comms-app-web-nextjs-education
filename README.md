@@ -1,7 +1,9 @@
 [![License](https://img.shields.io/github/license/dolbyio-samples/blog-android-audio-recording-examples)](LICENSE)
 
+![Blog Picture](https://dolby.io/wp-content/uploads/2021/09/How-to-Add-Quality-Assurance-to-Educational-Video-Production-with-Nextjs-1.jpg)
+
 # Dolby.io Education Platform
-This repository demonstrates the integration of Dolby.io's API into an educational video platform built with Next.js
+This repository [complements this blog](https://dolby.io/blog/how-to-add-quality-assurance-to-educational-video-production-with-next-js/) about the integration of Dolby.io's API into an educational video platform built with Next.js
 
 ## Overview
 To build quality assurance into educational content, Next.js can be leveraged for integrating aspects such as video processing, content validation, test automation, and user engagements. This helps offer insightful and practical examples to help developers enhance the quality and reliability of their educational videos. 
@@ -47,20 +49,22 @@ To learn more about Next.js or Dolby.io, take a look at the following resources:
 - [Sampling Excerpts of Media to Determine Ideal Enhance Parameters](https://dolby.io/blog/sampling-excerpts-of-media-to-determine-ideal-enhance-parameters/)
 - [Beginner’s Guide to Diagnosing Audio Issues as Part of an Azure Serverless Media Workflow](https://dolby.io/blog/diagnosing-audio-issues-azure-serverless-media-workflow/)
 
-# About Dolby.io
-Dolby.io is a new developer platform by Dolby Laboratories using decades of Dolby's sight and sound technology. Learn how to integrate APIs for real-time streaming, communications, and media processing solutions. You can find the tools, documentation, and sample projects to help you get started.
-<div align="center">
-  
-[![Dolby.io Home](https://img.shields.io/badge/-HomePage-yellowgreen)](https://dolby.io/)
-&nbsp; &nbsp; &nbsp;
-[![Dolby.io Documentation](https://img.shields.io/badge/-Our%20Documentation-orange)](https://docs.dolby.io/)
-&nbsp; &nbsp; &nbsp;
+## About Dolby.io
+Using decades of Dolby's research in sight and sound technology, Dolby.io provides APIs to integrate real-time streaming, voice & video communications, and file-based media processing into your applications. [Sign up for a free account](https://dashboard.dolby.io/signup/) to get started building the next generation of immersive, interactive, and social apps.
 
-[![@dolbyio on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dolbyio)
+<div align="center">
+  <a href="https://dolby.io/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a>
 &nbsp; &nbsp; &nbsp;
-[![@dolbyio on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DolbyIO/)
+  <a href="https://docs.dolby.io/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-Docs-0A0A0A?style=for-the-badge&logoColor=white"/></a>
 &nbsp; &nbsp; &nbsp;
-[![@dolbyio on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DolbyIO/)
+  <a href="https://dolby.io/blog/category/developer/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-Blog-0A0A0A?style=for-the-badge&logoColor=white"/></a>
+</div>
+
+<div align="center">
 &nbsp; &nbsp; &nbsp;
-  
+  <a href="https://youtube.com/@dolbyio" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="Dolby.io on YouTube"/></a>
+&nbsp; &nbsp; &nbsp; 
+  <a href="https://twitter.com/dolbyio" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Dolby.io on Twitter"/></a>
+&nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/company/dolbyio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Dolby.io on LinkedIn"/></a>
 </div>
