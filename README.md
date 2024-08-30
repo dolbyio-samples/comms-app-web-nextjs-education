@@ -1,6 +1,6 @@
-[![License](https://img.shields.io/github/license/dolbyio-samples/blog-nextjs-edu-platform)](LICENSE)
+# :warning: This repository is no longer maintained :warning:
 
-![Blog Picture](https://dolby.io/wp-content/uploads/2021/09/How-to-Add-Quality-Assurance-to-Educational-Video-Production-with-Nextjs-1.jpg)
+[![License](https://img.shields.io/github/license/dolbyio-samples/blog-nextjs-edu-platform)](LICENSE)
 
 # Dolby.io Education Platform
 This repository [complements this blog](https://dolby.io/blog/how-to-add-quality-assurance-to-educational-video-production-with-next-js/) about the integration of Dolby.io's API into an educational video platform built with Next.js
